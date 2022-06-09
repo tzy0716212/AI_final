@@ -1,4 +1,3 @@
-# AI_final
 ## Introduction
 The main purpose of this project is to play chess game with MCTS agent and minimax agent and compare their differences by letting MCTS agent and minimax agent compete with each other.
 ## Coding Environment
